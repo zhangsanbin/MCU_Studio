@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/settings.svg</file>
+        <file>img/save.png</file>
+        <file>img/printer.svg</file>
+        <file>img/new.svg</file>
+        <file>img/mail-message-new.svg</file>
+        <file>img/gtk-save.svg</file>
+        <file>img/gtk-preferences.svg</file>
+        <file>img/gtk-paste.svg</file>
+        <file>img/edit.svg</file>
+        <file>img/com.png</file>
+        <file>img/app.png</file>
+        <file>img/debug.png</file>
+        <file>img/debug-run-cursor.png</file>
+        <file>img/system-run.png</file>
+        <file>img/copy.png</file>
+        <file>img/cut.png</file>
+        <file>img/open.png</file>
+        <file>img/paste.png</file>
+        <file>img/app.ico</file>
+        <file>img/solution.ico</file>
+    </qresource>
+</RCC>
