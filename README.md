@@ -1,4 +1,4 @@
-MCU_Studio
+﻿#MCU_Studio
 
 
 Ubuntu Linux AVR 集成开发环境IDE，类似于 Atmel 官方的 Windows 版本集成开发坏境 Atmel Studio 6.0（ MCU Studio AVR Studio）
